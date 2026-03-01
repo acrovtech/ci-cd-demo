@@ -1,0 +1,21 @@
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Build and PyInstaller output
+build/
+dist/
+*.spec
+
+# Temporary scripts and logs
+pdf_text.txt
+read_pdf.py
+pytest_out.txt

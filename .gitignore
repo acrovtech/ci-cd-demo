@@ -19,3 +19,7 @@ dist/
 pdf_text.txt
 read_pdf.py
 pytest_out.txt
+
+# Documentos
+*.pdf
+*.md
